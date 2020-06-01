@@ -1,3 +1,15 @@
+Collecting bibtexparser
+  Downloading bibtexparser-1.2.0.tar.gz (46 kB)
+Collecting pyparsing>=2.0.3
+  Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+Collecting future>=0.16.0
+  Downloading future-0.18.2.tar.gz (829 kB)
+Installing collected packages: pyparsing, future, bibtexparser
+    Running setup.py install for future: started
+    Running setup.py install for future: finished with status 'done'
+    Running setup.py install for bibtexparser: started
+    Running setup.py install for bibtexparser: finished with status 'done'
+Successfully installed bibtexparser-1.2.0 future-0.18.2 pyparsing-2.4.7
 # jemdoc: menu{MENU}{publications.html}
 # jemdoc: addcss{./jemdoc.css}
 # jemdoc: title{Publications}
